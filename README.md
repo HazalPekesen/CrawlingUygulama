@@ -1,4 +1,4 @@
-# CrawlingUygulamas-
+# CrawlingUygulaması
 Örnek Vaka: Crawling Uygulaması
 
 Bana iletilen case ile ilgili araştırmalarımda, bir sitenin verilerini çekebilmek için kullanılan Html Agility Pack kütüphanesi ile karşılaştım.
